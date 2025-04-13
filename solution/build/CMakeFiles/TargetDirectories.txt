@@ -1,0 +1,3 @@
+/home/sofa/matrix_interpreter/solution/build/CMakeFiles/main.dir
+/home/sofa/matrix_interpreter/solution/build/CMakeFiles/edit_cache.dir
+/home/sofa/matrix_interpreter/solution/build/CMakeFiles/rebuild_cache.dir
